@@ -1,0 +1,27 @@
+# Temel Görüntü İşleme ve Matematik
+numpy
+opencv-python
+scikit-image
+pillow
+scipy
+
+# Makine Öğrenmesi ve Model Kaydı
+scikit-learn
+joblib
+
+# Veri Analizi ve Görselleştirme
+matplotlib
+seaborn
+pandas
+
+# Jupyter Notebook ve İnteraktif Çalışma (VS Code için)
+jupyter
+ipykernel
+notebook
+
+# İlerleme Çubuğu (Uzun süren eğitimler için)
+tqdm
+
+# Kod Kalitesi ve PEP 8 Kontrolü (PDF Madde 6 Gereği)
+flake8
+black
