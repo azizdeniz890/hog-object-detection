@@ -1,10 +1,4 @@
 # HOG (Histogram of Oriented Gradients) ile Nesne Tespiti ve Sınıflandırma
-
-**Ders:** Bilgisayarla Görü  
-**Öğrenci Adı:** Aziz Deniz Akmermer  
-**Öğrenci No:** 220212037  
-**Bölüm:** Yapay Zeka Mühendisliği  
-
 ---
 
 ## 📋 Proje Özeti
@@ -208,6 +202,3 @@ Detaylı metrikler ve grafikler `report/report.pdf` ve `report/figures/` içinde
 Aziz Deniz Akmermer — 220212037
 
 ---
-
-README'yi isterseniz parametre açıklamaları (`--window-size`, `--step`, `--threshold`) veya örnek çıktı görselleri ile
-genişletebilirim.
